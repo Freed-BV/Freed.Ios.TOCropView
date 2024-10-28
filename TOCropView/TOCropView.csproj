@@ -6,12 +6,12 @@
 		<ImplicitUsings>true</ImplicitUsings>
 		<IsBindingProject>true</IsBindingProject>
 		<GeneratePackageOnBuild>True</GeneratePackageOnBuild>
-		<AssemblyVersion>8.0.0.1</AssemblyVersion>
+		<AssemblyVersion>8.0.0.2</AssemblyVersion>
 		<FileVersion>$(AssemblyVersion)</FileVersion>
 		<PackageId>Freed.iOS.TOCropView</PackageId>
 		<Version>$(AssemblyVersion)</Version>
 		<Title>Freed.iOS.TOCropView</Title>
-		<NoBindingEmbedding>false</NoBindingEmbedding>
+<!--		<NoBindingEmbedding>true</NoBindingEmbedding>-->
 		<RepositoryUrl>https://github.com/jbowmanp1107/ImageCropper.Maui</RepositoryUrl>
 		<PackageProjectUrl>https://github.com/jbowmanp1107/ImageCropper.Maui</PackageProjectUrl>
 		<Description>.NET iOS Bindings for TOCropViewController</Description>
