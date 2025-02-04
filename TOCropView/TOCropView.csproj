@@ -1,12 +1,12 @@
 ﻿<Project Sdk="Microsoft.NET.Sdk">
 
 	<PropertyGroup>
-		<TargetFramework>net8.0-ios</TargetFramework>
+		<TargetFramework>net9.0-ios</TargetFramework>
 		<Nullable>enable</Nullable>
 		<ImplicitUsings>true</ImplicitUsings>
 		<IsBindingProject>true</IsBindingProject>
 		<GeneratePackageOnBuild>True</GeneratePackageOnBuild>
-		<AssemblyVersion>8.0.0.2</AssemblyVersion>
+		<AssemblyVersion>9.0.0.0</AssemblyVersion>
 		<FileVersion>$(AssemblyVersion)</FileVersion>
 		<PackageId>Freed.iOS.TOCropView</PackageId>
 		<Version>$(AssemblyVersion)</Version>
